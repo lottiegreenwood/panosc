@@ -10,7 +10,7 @@ Jamie (ILL), Stuart (ILL), Fabien (ILL), Eric (ILL), Hans (XFEL), Robert (XFEL),
 
 - - *EuXFEL: 1 person hired for WP4 (Robert Rosca), complete for now*
   - *ILL - interviews next week for software developer. 2 positions still being confirmed.*
-  - *ESS have offered a contract to someone (working on WP3 and WP4)*
+  - *ESS have offered a contract to someone (working on WP6 and WP4)*
   - *ESRF is recruiting someone that will be working mostly on administrative tasks. A position for recruiting a developer is currently in progress.*
   - CERIC-ERIC - ?
   - *ELI - Recruiting for two positions (one for WP4 and one for WP3)*
